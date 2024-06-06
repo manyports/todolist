@@ -2,6 +2,10 @@
 
 Plan your day with ease using this simple to-do list application. Keep track of tasks, mark them as completed, and delete them when done.
 
+# Screenshots
+
+![](https://media.discordapp.net/attachments/1247900489526546434/1248206943936315423/image.png?ex=6662d2cd&is=6661814d&hm=6ddb00c85f16337fcacaeb1c5af1ed3cb01aa36883dbfcc3ce2c1e78b25347aa&=&format=webp&quality=lossless&width=1395&height=662)
+
 ## Technologies Used:
 
 - Next.js
